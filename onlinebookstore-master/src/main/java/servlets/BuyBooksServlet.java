@@ -43,7 +43,7 @@ public class BuyBooksServlet extends HttpServlet {
                     "				<th>Name</th>\r\n" +
                     "				<th>Author</th>\r\n" +
                     "				<th>Price</th>\r\n" +
-                    "				<th>Avail</th>\r\n" +
+                    "				<th>Availble</th>\r\n" +
                     "				<th>Qty</th>\r\n" +
                     "			</tr>");
             int i = 0;
